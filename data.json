@@ -1,26 +1,20 @@
 {
-    "gumroadProductURL": "https://gum.co/rxqNq",
-    "name": "Mohd Danish",
-    "subtitle": "Indie Hacker",
-    "about": "I'm 26y old Front-end Engineer with Master Degree but I can do anything related with technology. 🚀 I can make MVP in days, 🧙‍♀️ Magic with NodeJS, 🤖 Automate the boring stuffs, 👨‍💻 Hack the third party APIs for any use case, and I always get a solution of the problem. I'm foodie & love to cook 🍳.",
-    "profileImage": "mddanishyusuf.png",
+    "gumroadProductURL": "https://gum.co/UrGwE",
+    "name": "William Ye",
+    "subtitle": "Never-say-die multipotentialite",
+    "about": "test",
+    "profileImage": "william.jpg",
     "links": [
         {
             "name": "Open Source Projects",
-            "link": "https://github.com/mddanishyusuf",
+            "link": "https://github.com/williammm95",
             "type": "github",
             "category": "work"
         },
         {
-            "name": "Open Source Projects",
-            "link": "https://mohddanish.me/projects",
-            "type": "projects",
-            "category": "work"
-        },
-        {
             "name": "Let's Connect",
-            "link": "https://twitter.com/mddanishyusuf",
-            "type": "twitter",
+            "link": "https://www.linkedin.com/in/williamyeee/",
+            "type": "linkedin",
             "category": "social"
         },
         {
@@ -30,5 +24,5 @@
             "category": "social"
         }
     ],
-    "thanksNote": "I'm sending some ♥️ from INDIA. Thanks again for coffees."
+    "thanksNote": "Thank you for the kind gesture!!"
 }
